@@ -6,6 +6,6 @@ The main idea I walked away from this morning's brainstorming session with was p
 
 Another idea which I was somewhat pleased with was the creation of a facade that spatially responded to the nearness of neighboring objects.  It would come forward to meet nearby objects while receding inward in response to open spaces.
 
-generic_facade.jpeg
+![Generic Facade](https://github.com/schip062/Catalyst/blob/master/generic_facade.jpg)
 
 
